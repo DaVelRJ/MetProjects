@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "GeometryCollection", "geometries": []}, "properties": {"DN": 0, "VALID": "202312191200", "EXPIRE": "202312201200", "ISSUE": "202312150930", "LABEL": "", "LABEL2": "", "stroke": "", "fill": ""}}]}
